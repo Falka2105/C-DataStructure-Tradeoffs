@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1763235417 source:f:\proyectos\tradeoffs_v2\src\linkedlist.c
+	<stdlib.h>
+	<stdio.h>
+	"linkedList.h"
+
+1763235486 f:\proyectos\tradeoffs_v2\include\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+
+1763235417 source:f:\proyectos\tradeoffs_v2\src\orderedarray.c
+	<stdlib.h>
+	<stdio.h>
+	"orderedArray.h"
+
+1763235462 f:\proyectos\tradeoffs_v2\include\orderedarray.h
+
+1763196439 source:f:\proyectos\tradeoffs_v2\src\product.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"product.h"
+
+1763235441 f:\proyectos\tradeoffs_v2\include\product.h
+
+1763236090 source:f:\proyectos\tradeoffs_v2\src\student.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"student.h"
+
+1763235417 f:\proyectos\tradeoffs_v2\include\student.h
+
+1763235417 source:f:\proyectos\tradeoffs_v2\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"orderedArray.h"
+	"linkedList.h"
+	"student.h"
+	"product.h"
+

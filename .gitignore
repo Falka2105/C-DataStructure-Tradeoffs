@@ -1,0 +1,11 @@
+# Archivos de Code::Blocks (Ignorar)
+*.cbp
+*.layout
+
+# Archivos compilados (Ignorar)
+*.o
+*.exe
+
+# Carpetas de compilación (Ignorar)
+bin/
+obj/
