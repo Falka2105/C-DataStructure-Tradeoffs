@@ -61,3 +61,7 @@ This project is built using Code::Blocks.
 ├── Tradeoffs_v2.cbp      # Code::Blocks project file
 └── README.md             # This documentation
 ```
+
+## Autor
+**Nicolás Pereyra Kaluza**
+* LinkedIn: www.linkedin.com/in/nicolás-pereyra-659b53395
